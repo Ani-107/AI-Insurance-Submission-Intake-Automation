@@ -1,0 +1,22 @@
+{
+  "received_date": "2026-10-29T16:00:00Z",
+  "sender_email": "broker@example.com",
+  "company_name": "Swift Freight Logistics",
+  "industry": "Trucking and freight",
+  "business_location": "Sacramento, CA",
+  "annual_revenue": "$12,500,000",
+  "employee_count": 85,
+  "coverage_requested": "Commercial auto",
+  "coverage_limit": "$2,000,000",
+  "loss_history": "Two minor cargo claims during the past five years",
+  "requested_effective_date": "2027-01-01",
+  "submission_category": "Transportation",
+  "confidence_score": 92,
+  "missing_fields": [],
+  "submission_status": "Ready for Underwriting",
+  "routing_team": "Transportation Underwriting",
+  "human_review_required": false,
+  "review_reason": "Complete submission; confidence score 92.",
+  "submission_summary": "Swift Freight Logistics is a Sacramento trucking company seeking $2 million in commercial auto coverage effective January 1, 2027. It reports two minor cargo claims in five years.",
+  "gmail_message_id": "gmail-demo-001"
+}

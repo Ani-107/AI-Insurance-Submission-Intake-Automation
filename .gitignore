@@ -1,0 +1,18 @@
+# Secrets and local environment
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*credentials*.json
+*secrets*.json
+
+# Private/live n8n artifacts
+workflow/private/
+workflow/*-live.json
+workflow/*-production.json
+
+# Local exports and OS files
+*.xlsx
+.DS_Store
+Thumbs.db
