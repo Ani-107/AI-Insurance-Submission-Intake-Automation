@@ -131,7 +131,7 @@ This precedence is intentional: a high confidence value cannot bypass missing-da
 | Google Sheets failure | Do not mark the email complete; alert operations and retry |
 | Notification failure | Keep the logged record and expose the delivery error for retry |
 
-The screenshot demonstrates the portfolio workflow. Production implementation should add retry policies, a dead-letter queue, idempotency, and monitoring.
+The screenshot demonstrates the working intake workflow. Production implementation should add retry policies, a dead-letter queue, idempotency, and monitoring.
 
 ## Trust boundaries
 
